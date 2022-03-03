@@ -7,3 +7,6 @@
 * Then activate the env using " C:\Users\s542404\Documents\44517\python-word-count-bean\Scripts\activate.ps1"
 * Finally install the apache beam using "python -m pip install apache-beam"
 * Now copy the python code and the input file to the folder and then run the command "python -m apache_beam.examples.wordcount --input sample.txt --output output.txt" output will be generated.
+![image] (https://github.com/Vemula23/python-word-count-beam/blob/master/Screenshot%20(221).png)
+![image] (https://github.com/Vemula23/python-word-count-beam/blob/master/Screenshot%20(222).png)
+![image] (https://github.com/Vemula23/python-word-count-beam/blob/master/Screenshot%20(223).png)
