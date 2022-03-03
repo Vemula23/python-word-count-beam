@@ -6,4 +6,4 @@
 * Next create the env using the command "python -m venv C:\Users\s542404\Documents\44517\python-word-count-beam"
 * Then activate the env using " C:\Users\s542404\Documents\44517\python-word-count-bean\Scripts\activate.ps1"
 * Finally install the apache beam using "python -m pip install apache-beam"
-* Now copy the python code and the input file to the folder and then run the command "python -m apache_beam.examples.wordcount --input input.txt --output output.txt" output will be generated.
+* Now copy the python code and the input file to the folder and then run the command "python -m apache_beam.examples.wordcount --input sample.txt --output output.txt" output will be generated.
